@@ -1,2 +1,2 @@
-# hello-world
-this is my tutorial git hub
+# hello-world my name is bryce ostrem
+name: bryce ostrem
